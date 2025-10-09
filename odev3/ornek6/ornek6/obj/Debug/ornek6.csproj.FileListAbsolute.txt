@@ -1,0 +1,10 @@
+C:\Users\zeynepT\source\repos\ornek6\ornek6\bin\Debug\ornek6.exe.config
+C:\Users\zeynepT\source\repos\ornek6\ornek6\bin\Debug\ornek6.exe
+C:\Users\zeynepT\source\repos\ornek6\ornek6\bin\Debug\ornek6.pdb
+C:\Users\zeynepT\source\repos\ornek6\ornek6\obj\Debug\ornek6.csproj.AssemblyReference.cache
+C:\Users\zeynepT\source\repos\ornek6\ornek6\obj\Debug\ornek6.Form1.resources
+C:\Users\zeynepT\source\repos\ornek6\ornek6\obj\Debug\ornek6.Properties.Resources.resources
+C:\Users\zeynepT\source\repos\ornek6\ornek6\obj\Debug\ornek6.csproj.GenerateResource.cache
+C:\Users\zeynepT\source\repos\ornek6\ornek6\obj\Debug\ornek6.csproj.CoreCompileInputs.cache
+C:\Users\zeynepT\source\repos\ornek6\ornek6\obj\Debug\ornek6.exe
+C:\Users\zeynepT\source\repos\ornek6\ornek6\obj\Debug\ornek6.pdb
