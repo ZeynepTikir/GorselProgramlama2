@@ -1,0 +1,10 @@
+C:\Users\zeynepT\source\repos\ödev 5\ödev 5\bin\Debug\ödev 5.exe.config
+C:\Users\zeynepT\source\repos\ödev 5\ödev 5\bin\Debug\ödev 5.exe
+C:\Users\zeynepT\source\repos\ödev 5\ödev 5\bin\Debug\ödev 5.pdb
+C:\Users\zeynepT\source\repos\ödev 5\ödev 5\obj\Debug\ödev 5.csproj.AssemblyReference.cache
+C:\Users\zeynepT\source\repos\ödev 5\ödev 5\obj\Debug\ödev_5.Form1.resources
+C:\Users\zeynepT\source\repos\ödev 5\ödev 5\obj\Debug\ödev_5.Properties.Resources.resources
+C:\Users\zeynepT\source\repos\ödev 5\ödev 5\obj\Debug\ödev 5.csproj.GenerateResource.cache
+C:\Users\zeynepT\source\repos\ödev 5\ödev 5\obj\Debug\ödev 5.csproj.CoreCompileInputs.cache
+C:\Users\zeynepT\source\repos\ödev 5\ödev 5\obj\Debug\ödev 5.exe
+C:\Users\zeynepT\source\repos\ödev 5\ödev 5\obj\Debug\ödev 5.pdb
